@@ -26,12 +26,15 @@ Eman is a student studying in Mannheim University and she owns a car. Every day 
 <b>Role 5: Actively participated in coming up with Project Structure Plan</b><br>
 <img src="https://github.com/Kavana-CR/International-Project-Management-Uni-Ride/blob/master/Project%20Structure%20Plan.png"><br>
 <b>Role 6: Assisted in setting up tasks under different phases in Sprints using scrumwise tool to lay the Network Plan.</b><br>
-<p>As our model is based on scrum framework, it is not useful to have milestones set up as the plan may change anytime depending on the competitive market. The project has multiple releases and each release period is about 6 months and each release consists of several sprints, each sprint is of approximately one month containing several different tasks .</p>
+<p>As our model is based on scrum framework, it is not very useful to define milestones as the plan may change anytime depending on the competitive market and hence effective changes in requirements. The project has multiple releases and each release period is about 6 months and each release consists of several sprints, each sprint is of approximately one month containing several different tasks .</p>
 <img src="https://github.com/Kavana-CR/International-Project-Management-Uni-Ride/blob/master/Sprint2.PNG"><br>
 <img src="https://github.com/Kavana-CR/International-Project-Management-Uni-Ride/blob/master/Sprint1-tasks.png"><br>
 <b>Role 7: Identified Risks and did Risk Assessment by mapping the chart on excel, came up with solutions for Risks (Mitigation Strategies).</b><br>
 <img src="https://github.com/Kavana-CR/International-Project-Management-Uni-Ride/blob/master/Risks-Ranked-to%20filter.PNG"><br>
 <img src="https://github.com/Kavana-CR/International-Project-Management-Uni-Ride/blob/master/Risk%20Assessment%20Chart.png"><br>
+<b>Grid Matrix of each Risk category after Mitigation of Risks:</b><br>
+<img src="https://github.com/Kavana-CR/International-Project-Management-Uni-Ride/blob/master/ProcessAppMarket.PNG"><br>
+<img src="https://github.com/Kavana-CR/International-Project-Management-Uni-Ride/blob/master/SecurityStakeholderFinancial.PNG">
 
 
 
