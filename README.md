@@ -32,7 +32,7 @@ Eman is a student studying in Mannheim University and she owns a car. Every day 
 <b>Role 7: Identified Risks and did Risk Assessment by mapping the chart on excel, came up with solutions for Risks (Mitigation Strategies).</b><br>
 <img src="https://github.com/Kavana-CR/International-Project-Management-Uni-Ride/blob/master/Risks-Ranked-to%20filter.PNG"><br>
 <img src="https://github.com/Kavana-CR/International-Project-Management-Uni-Ride/blob/master/Risk%20Assessment%20Chart.png"><br>
-<b>Grid Matrix of each Risk category after Mitigation of Risks:</b><br>
+<b>Risk Matrix Grid of each Risk category after Mitigation of Risks:</b><br>
 <img src="https://github.com/Kavana-CR/International-Project-Management-Uni-Ride/blob/master/ProcessAppMarket.PNG"><br>
 <img src="https://github.com/Kavana-CR/International-Project-Management-Uni-Ride/blob/master/SecurityStakeholderFinancial.PNG">
 
