@@ -7,5 +7,5 @@ system that supports the spontaneous identification of carpooling possibilities 
 John is a student studying in SRH University and stays in Speyer which is approximately 40km away from the university. 
 He stays at a place where the frequency of public transport is low. Bus stops and Train stations are located far from his residence 
 and therefore he looks for a carpooling application with affordable price which can help him go to university without wasting much time
-commuting.</p> 
-<img src="
+commuting.</p>
+<img src="https://github.com/Kavana-CR/International-Project-Management-Uni-Ride/blob/master/UserStory1.PNG">
